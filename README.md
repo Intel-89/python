@@ -1,2 +1,2 @@
 # Introductory python snippets
-![GitHub Logo](https://github.com/Intel-89/other/blob/master/Octocat_Python.png&s=250)
+250x250![GitHub Logo](https://github.com/Intel-89/other/blob/master/Octocat_Python.png)
